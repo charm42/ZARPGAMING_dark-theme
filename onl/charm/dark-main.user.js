@@ -29,7 +29,6 @@ const dropdownItems = function () {
 
 console.log(dropdownItems());
 console.log(navItems);
-console.log('RRR')
 //elems:: FINISHED
 
 //TO-DO: CSS&HTML re-make.
