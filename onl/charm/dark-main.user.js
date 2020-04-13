@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Dark Theme 2.0 - Rick
 // @namespace    https://charm.onl
-// @version      0.1
+// @version      0.2
 // @description  New zarpgaming.com theme!
 // @author       Charm
 // @match        http*://*.zarpgaming.com/*
