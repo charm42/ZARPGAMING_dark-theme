@@ -30,12 +30,4 @@ const dropdownItems = function () {
 console.log(dropdownItems());
 console.log(navItems);
 //elems:: FINISHED
-
 //TO-DO: CSS&HTML re-make.
-
-//Header:end
-
-// (function() {
-//     'use strict';
-
-// })();
